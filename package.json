@@ -1,7 +1,7 @@
 {
-  "name": "raptorsa-master",
+  "name": "Goblin Bot",
   "version": "1.1.0",
-  "description": "RaptorSA is a multi function bot.",
+  "description": "Goblin is a multi function bot.",
   "main": "index.js",
   "dependencies": {
     "@google-cloud/translate": "^4.0.1",
@@ -46,19 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cramenorn/RaptorSA.git"
-  },
+    "url": "https://github.com/Mrbrowndiscord/Goblin-Bot-master/tree/master"
   "keywords": [
     "discord-js",
     "discord-bot",
     "nodejs",
     "programming",
     "google-api"
-  ],
-  "author": "Cramenorn",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Cramenorn/RaptorSA/issues"
-  },
-  "homepage": "https://github.com/Cramenorn/RaptorSA#readme"
-}
